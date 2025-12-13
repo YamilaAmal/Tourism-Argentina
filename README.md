@@ -1,4 +1,4 @@
-This is the first project in group, we decided to study tourism in Argentina to see the consequences after covid. 
+
 
 # Tourism-Argentina
 First team analysis for the diploma course on tourism in Argentina
